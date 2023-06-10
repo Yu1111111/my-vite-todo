@@ -9,4 +9,8 @@
   margin-top: 15px;
   height: 30px;
 }
+
+.title {
+  color: red;
+}
 </style>
