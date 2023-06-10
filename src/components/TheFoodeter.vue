@@ -4,7 +4,7 @@
   </footer>
 </template>
 
-<style scoped>
+<style>
 .footer {
   margin-top: 15px;
   height: 30px;
